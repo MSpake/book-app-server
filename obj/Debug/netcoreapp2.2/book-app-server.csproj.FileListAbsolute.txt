@@ -1,0 +1,14 @@
+/home/morgana/codefellows/c#-playground/book-app-server/bin/Debug/netcoreapp2.2/book-app-server.deps.json
+/home/morgana/codefellows/c#-playground/book-app-server/bin/Debug/netcoreapp2.2/book-app-server.runtimeconfig.json
+/home/morgana/codefellows/c#-playground/book-app-server/bin/Debug/netcoreapp2.2/book-app-server.runtimeconfig.dev.json
+/home/morgana/codefellows/c#-playground/book-app-server/bin/Debug/netcoreapp2.2/book-app-server.dll
+/home/morgana/codefellows/c#-playground/book-app-server/bin/Debug/netcoreapp2.2/book-app-server.pdb
+/home/morgana/codefellows/c#-playground/book-app-server/obj/Debug/netcoreapp2.2/book-app-server.csprojAssemblyReference.cache
+/home/morgana/codefellows/c#-playground/book-app-server/obj/Debug/netcoreapp2.2/book-app-server.csproj.CoreCompileInputs.cache
+/home/morgana/codefellows/c#-playground/book-app-server/obj/Debug/netcoreapp2.2/book-app-server.RazorAssemblyInfo.cache
+/home/morgana/codefellows/c#-playground/book-app-server/obj/Debug/netcoreapp2.2/book-app-server.RazorAssemblyInfo.cs
+/home/morgana/codefellows/c#-playground/book-app-server/obj/Debug/netcoreapp2.2/book-app-server.AssemblyInfoInputs.cache
+/home/morgana/codefellows/c#-playground/book-app-server/obj/Debug/netcoreapp2.2/book-app-server.AssemblyInfo.cs
+/home/morgana/codefellows/c#-playground/book-app-server/obj/Debug/netcoreapp2.2/book-app-server.RazorTargetAssemblyInfo.cache
+/home/morgana/codefellows/c#-playground/book-app-server/obj/Debug/netcoreapp2.2/book-app-server.dll
+/home/morgana/codefellows/c#-playground/book-app-server/obj/Debug/netcoreapp2.2/book-app-server.pdb
